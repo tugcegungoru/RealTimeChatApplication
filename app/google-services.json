@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22064596133",
+    "firebase_url": "https://mesajlasma-17191.firebaseio.com",
+    "project_id": "mesajlasma-17191",
+    "storage_bucket": "mesajlasma-17191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22064596133:android:6af293ddc1ae509214794c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22064596133-kqmd8o44ba33qvtf9pe86ejpuata756e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "41ea2e2748aae3f352816d9e9a544db5ac3c005e"
+          }
+        },
+        {
+          "client_id": "22064596133-j681fdtou7mt6n2v9dofcgvv9q88jc4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCth1e4yaaBOpqRJbbGUbbNc2iVUPjom1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22064596133-j681fdtou7mt6n2v9dofcgvv9q88jc4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
